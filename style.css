@@ -1,22 +1,29 @@
-#voitenko2{
-	margin-left: 20px;
-	width: 150px;
-	height: 150px;
+body{
+	font-family: 'Modak', cursive;
 }
-audio{
-	margin-left: 30px;
+.bodyPic{
+	height: 180px;
+	width: 250px;
+	padding-bottom: 15px; 
+	border-bottom: 1px solid black;
 }
-.row{
-	margin-top: 80px;
-	text-align: center;
+.row{		
+	margin-top: 60px;
 }
 .col-sm-5{
-	margin-bottom: 15px;
-}
-.discr{
+	margin: auto;
 	text-align: center;
-	border-bottom: 1px solid black;
+	margin-top: 20px;
 }
 .navbar{
 	width: auto;
 }
+.footer{
+	display: none;
+	bottom: 0;
+	background-color: #343A40;
+	color: white;
+}
+
+
+
