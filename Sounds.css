@@ -1,0 +1,29 @@
+body{
+	font-family: 'Modak', cursive;
+}
+.bodyPic{
+	height: 180px;
+	width: 250px;
+	padding-bottom: 15px; 
+	border-bottom: 1px solid black;
+}
+.row{		
+	margin-top: 60px;
+}
+.col-sm-5{
+	margin: auto;
+	text-align: center;
+	margin-top: 20px;
+}
+.navbar{
+	width: auto;
+}
+.footer{
+	display: none;
+	bottom: 0;
+	background-color: #343A40;
+	color: white;
+}
+
+
+

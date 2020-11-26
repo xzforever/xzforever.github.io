@@ -1,0 +1,22 @@
+#shredder2{
+	margin-left: 20px;
+	width: 150px;
+	height: 150px;
+}
+audio{
+	margin-left: 30px;
+}
+.row{
+	margin-top: 80px;
+	text-align: center;
+}
+.col-sm-5{
+	margin-bottom: 15px;
+}
+.discr{
+	text-align: center;
+	border-bottom: 1px solid black;
+}
+.navbar{
+	width: auto;
+}
